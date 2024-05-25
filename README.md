@@ -1,0 +1,1 @@
+More simple version of  https://github.com/karpathy/minGPT.
